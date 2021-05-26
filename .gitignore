@@ -28,5 +28,8 @@ target/
 nbproject/private/ 
 build/ 
 nbbuild/ 
+# Eclipse
+.settings/
+
 dist/ 
 nbdist/
